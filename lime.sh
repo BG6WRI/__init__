@@ -37,3 +37,12 @@ cmake ../
 make
 sudo make install
 sudo ldconfig
+
+git clone https://github.com/myriadrf/gr-limesdr
+cd gr-limesdr
+mkdir build
+cd build
+cmake ..
+make
+sudo make install
+sudo ldconfig
