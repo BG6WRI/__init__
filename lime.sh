@@ -26,7 +26,6 @@ PothosUtil --system-info
 SoapySDRUtil --info
 
 sudo apt-get install git cmake libboost-dev libcppunit-dev libfftw3-dev python-numpy doxygen python-cheetah python-gtk2-dev python-qt4 python-qwt5-qt4 libxi-dev libqt4-opengl-dev libqwt5-qt4-dev python-lxml
-sudo apt-get install gnuradio
 sudo apt-get install libsoapysdr-dev gr-fcdproplus
 
 git clone git://git.osmocom.org/gr-osmosdr
